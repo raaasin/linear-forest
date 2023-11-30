@@ -1,4 +1,3 @@
-
 # Reg-Linear Forest
 
 The Reg-Linear Forest is a piecewise linear regression-based algorithm designed to predict continuous values using micro linear regressions. It segments the data into smaller linear sections and aggregates predictions from these sections to make an overall prediction.
